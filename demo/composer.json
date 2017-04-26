@@ -1,0 +1,9 @@
+{
+    "require": {
+        "react/dns": "^0.4.6"
+    },
+    "autoload":{
+        "psr-4": { "Sukui\\": "src/" },
+        "files": ["src/Helper/Functions.php"]
+    }
+}
